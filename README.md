@@ -12,3 +12,5 @@ last line changed *locally*
 1. List Element 1
 2. List Element 2
 3. List Element 3
+
+![recipe.png](cake.webp)
